@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Montserrat|Sriracha');
+
+.App{
+    font-family: 'Montserrat', sans-serif;
+    background-image: url('bgclouds.jpg');
+    background-size: 150%;   
+    position: fixed; 
+    top: 80;
+    left: 0;
+    z-index: -1;
+    min-width: 100vw;
+    min-height: 100vh;
+}
+
+/* #backgroundImg{
+    background-image: url('bgclouds.jpg');
+    background-size: 150%;   
+    position: fixed; 
+    top: 80;
+    left: 0;
+    z-index: -1;
+    min-width: 100vw;
+    min-height: 100vh;
+} */
+
+button{
+    background: #ED254E;
+    border-radius: 25px;
+    width: auto;
+    color: #FDFFFC;
+    padding: 17px;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    box-shadow: 1px 1px 1px #0B3C49;
+}
+
